@@ -1,0 +1,11 @@
+.chart-section{
+    padding: 2rem;
+    background: transparent;
+}
+
+h3{
+    padding: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 1.8rem;
+}
